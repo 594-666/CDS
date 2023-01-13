@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="irwq2zFbK-SAXJ6KeThz" name="Page-1">
-        <mxGraphModel dx="1738" dy="712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#632727" math="0" shadow="0">
+        <mxGraphModel dx="1484" dy="509" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#632727" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -130,9 +130,6 @@
                 <mxCell id="gE0C1uGsTyNZAUFdPiar-68" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.25;rotation=30;fillColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-145.00000000000014" y="702" width="95" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="gE0C1uGsTyNZAUFdPiar-69" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.discordapp.com/attachments/878496221998772225/1061518419993821224/magicut_1673156061437.png" parent="1" vertex="1">
-                    <mxGeometry x="-62" y="696.0000000000001" width="102" height="101" as="geometry"/>
-                </mxCell>
                 <mxCell id="gE0C1uGsTyNZAUFdPiar-70" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.discordapp.com/attachments/878496221998772225/1061518419993821224/magicut_1673156061437.png" parent="1" vertex="1">
                     <mxGeometry x="21" y="696.0000000000001" width="102" height="101" as="geometry"/>
                 </mxCell>
@@ -247,8 +244,11 @@
                 <mxCell id="gE0C1uGsTyNZAUFdPiar-110" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://cdn.discordapp.com/attachments/878496221998772225/1061524445459656734/magicut_1673157541126.png" parent="1" vertex="1">
                     <mxGeometry x="565.51" y="570" width="82.5" height="151" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="&lt;font style=&quot;font-size: 145px&quot;&gt;7&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=120;fontColor=#E0F002;" vertex="1" parent="1">
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 145px&quot;&gt;7&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=120;fontColor=#E0F002;" parent="1" vertex="1">
                     <mxGeometry x="49.50000000000014" y="727.11" width="178.5" height="186.01" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.discordapp.com/attachments/1061546413319782420/1061639019898867752/magicut_1673184837960.png;" vertex="1" parent="1">
+                    <mxGeometry x="-54.4900000000002" y="698.5" width="86.98" height="83.5" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
